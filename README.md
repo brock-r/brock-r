@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" height = "200"/>
+<img align="right" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="220" height = "155"/>
 
 ![](https://komarev.com/ghpvc/?username=brock-r)
 
