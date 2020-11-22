@@ -4,7 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=brock-r)
 
-
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
@@ -15,8 +14,6 @@ You can find me on [![LinkedIn][1.2]][1].
 
 [1]: www.linkedin.com/in/brockryancs
 
-🔭 I’m currently working on 
-🌱 I’m currently learning ...
 
 <!--
 **brock-r/brock-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
