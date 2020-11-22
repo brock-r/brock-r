@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="128"/>
 ![](https://komarev.com/ghpvc/?username=brock-r)
 
 <!--
