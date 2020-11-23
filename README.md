@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brock Ryan</h1>
 <h3 align="center">Computer Science Student and Instructional Assistant</h3>
 
-<img align="right" src="https://gfycat.com/agreeableplaineasternglasslizard" width="250" height = "175"/>
+<img align="right" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250" height = "175"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brock-r&label=Profile%20views&color=0e75b6&style=flat" alt="brock-r" /> </p>
 
