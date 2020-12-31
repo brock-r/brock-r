@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brock-r&label=Profile%20views&color=0e75b6&style=flat" alt="brock-r" /> </p>
 
 - 📫 Reach me via email at **brockryan930@gmail.com**
-- ![image]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
+- <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 
 
