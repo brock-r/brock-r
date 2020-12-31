@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brock-r&label=Profile%20views&color=0e75b6&style=flat" alt="brock-r" /> </p>
 
 - 📫 Reach me via email at **brockryan930@gmail.com**
-- <a href="https://www.linkedin.com/in/brockryancs/" target="_blank"> <img s"https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="40" height="40"/> </a>
+- <a href="https://www.linkedin.com/in/brockryancs/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="40" height="40"/> </a>
 
 
 
