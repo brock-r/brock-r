@@ -6,7 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brock-r&label=Profile%20views&color=0e75b6&style=flat" alt="brock-r" /> </p>
 
 - 📫 Reach me via email at **brockryan930@gmail.com**
-- You can find me on [![LinkedIn][1.2]][1].
+-  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/brockryancs"
 
 <!-- Icons -->
 
