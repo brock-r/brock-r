@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brock Ryan</h1>
+<h1 align="center">Brock Ryan</h1>
 <h3 align="center">Computer Science Student and Instructional Assistant</h3>
 
 <img align="right" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250" height = "175"/>
